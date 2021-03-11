@@ -9,5 +9,10 @@
 <body>
     <h1>Hello World!</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum id nam dolorem totam. Cum quae at deleniti, aliquid dolorum beatae consequuntur eos quidem, voluptas hic ullam maxime autem doloremque totam?</p>
+
+    <ul>
+        <li>Abdi Setiadi</li>
+        <li>Geby Meyvania</li>
+    </ul>
 </body>
 </html>
